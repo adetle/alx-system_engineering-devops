@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type D -print | wc -l
